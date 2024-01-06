@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "peddy-paper"
+version = "0.1.0"
+description = "This is a peddy paper for friends"
+authors = ["filipedlferreira <filipedaniellferreira@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.108.0"
+alembic = "^1.13.1"
+pydantic = "^2.5.3"
+pandas = "^2.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
