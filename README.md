@@ -1,2 +1,2 @@
-# band_project
-This is a project for the live concert band-seekers
+# Peddy Paper project
+This is a project for friends to join and play peddy paper
